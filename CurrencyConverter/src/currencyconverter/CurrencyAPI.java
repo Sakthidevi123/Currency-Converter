@@ -12,7 +12,7 @@ public class CurrencyAPI {
 
     public static double getExchangeRate(String from, String to) {
         try {
-            String apiKey = "ad8908e90be3167964916ffc";
+            String apiKey = "YOUR API KEY";
             String url_str = "https://v6.exchangerate-api.com/v6/" + apiKey + "/pair/" + from + "/" + to;
 
             URL url = new URL(url_str);
@@ -81,3 +81,4 @@ public class CurrencyAPI {
     return currencyMap;
 }
 }
+
