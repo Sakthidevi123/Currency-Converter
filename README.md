@@ -3,7 +3,7 @@ Overview:
 
 This is a desktop-based Currency Converter built with Java Swing. The application allows users to input an amount, select source and target currencies, and perform conversion. The focus of this version is not only on functionality but on improving usability and visual appeal through UI design refinements.
 
-Key Features:
+Key Features: "\n"
 User-friendly inputs: Clearly labeled fields for amount, source ("From") and destination ("To") currencies.
 
 Styled action button: Convert button designed to stand out for easy interaction.
