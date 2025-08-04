@@ -29,3 +29,7 @@ Open the project in NetBeans.
 Build and run CurrencyConvert.java.
 
 Enter amount, choose currencies, and click “Convert” (conversion logic to be hooked in).
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c729e67a-02a2-4ef1-9f99-55fb58719871" />
+
